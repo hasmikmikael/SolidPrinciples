@@ -1,0 +1,5 @@
+### EMPLOYEE RECORD ### 
+NAME: Billy Leech 
+POSITION: FullTimeEmployee 
+EMAIL: Billy.Leech@gmail.com 
+MONTHLY WAGE: 920 

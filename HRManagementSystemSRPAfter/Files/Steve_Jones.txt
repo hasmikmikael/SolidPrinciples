@@ -1,0 +1,5 @@
+### EMPLOYEE RECORD ### 
+NAME: Steve Jones 
+POSITION: PartTimeEmployee 
+EMAIL: Steve.Jones@gmail.com 
+MONTHLY WAGE: 800 
